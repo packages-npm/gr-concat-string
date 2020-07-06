@@ -1,5 +1,5 @@
 {
-  "name": "js-utils",
+  "name": "@gr-code/js-utils",
   "version": "1.0.0",
   "readmeFilename": "README.md",
   "keywords": ["concat", "string"],
