@@ -1,5 +1,5 @@
 {
-  "name": "gr-concat-string",
+  "name": "js-utils",
   "version": "1.0.0",
   "readmeFilename": "README.md",
   "keywords": ["concat", "string"],
@@ -18,10 +18,10 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/packages-npm/gr-concat-string"
+    "url": "git+https://github.com/packages-npm/js-utils"
   },
   "bugs": {
-    "url": "https://github.com/packages-npm/gr-concat-string/issues"
+    "url": "https://github.com/packages-npm/js-utils/issues"
   },
-  "homepage": "https://github.com/packages-npm/gr-concat-string/issues#readme"
+  "homepage": "https://github.com/packages-npm/js-utils/issues#readme"
 }
