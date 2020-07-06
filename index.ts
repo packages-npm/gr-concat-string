@@ -1,1 +1,1 @@
-export * from "./concat-string";
+export * from "./functions";

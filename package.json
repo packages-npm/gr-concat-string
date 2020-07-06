@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/packages-npm/js-utils/issues"
   },
-  "homepage": "https://github.com/packages-npm/js-utils/issues#readme"
+  "homepage": "https://github.com/packages-npm/js-utils/issues#readme",
+  "publishConfig": {
+    "access": "public"
+  }
 }
