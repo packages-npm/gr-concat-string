@@ -1,11 +1,27 @@
 {
-  "name": "ts",
+  "name": "gr-concat-string",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "readmeFilename": "README.md",
+  "keywords": ["concat", "string"],
+  "tags": ["concat", "string"],
+  "description": "Utils",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "nodemon dist/test.js"
   },
-  "author": "",
-  "license": "ISC"
+  "author": {
+    "name": "Geilson Ribeiro",
+    "email": "geilsonrm@hotmail.com",
+    "homepage": ""
+  },
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/packages-npm/gr-concat-string"
+  },
+  "bugs": {
+    "url": "https://github.com/packages-npm/gr-concat-string/issues"
+  },
+  "homepage": "https://github.com/packages-npm/gr-concat-string/issues#readme"
 }

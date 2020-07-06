@@ -1,5 +1,6 @@
 "use strict";
-module.exports = function concatString(array, between, init, end) {
+Object.defineProperty(exports, "__esModule", { value: true });
+function concatString(array, between, init, end) {
     if (array === void 0) { array = ["empty..."]; }
     if (between === void 0) { between = ""; }
     if (init === void 0) { init = ""; }
@@ -8,4 +9,5 @@ module.exports = function concatString(array, between, init, end) {
         var result = (field += index < array.length - 1 ? concat + between : concat);
         return index < array.length - 1 ? result : result + end;
     }, init);
-};
+}
+exports.concatString = concatString;
